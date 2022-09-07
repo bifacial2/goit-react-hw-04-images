@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.eb3efa12.css",
-    "main.js": "/react-homework-template/static/js/main.a6abcb7b.js",
-    "static/media/search-svgrepo-com.svg": "/react-homework-template/static/media/search-svgrepo-com.75c494c1caed792ce01c.svg",
-    "index.html": "/react-homework-template/index.html",
-    "main.eb3efa12.css.map": "/react-homework-template/static/css/main.eb3efa12.css.map",
-    "main.a6abcb7b.js.map": "/react-homework-template/static/js/main.a6abcb7b.js.map"
+    "main.css": "/goit-react-hw-04-images/static/css/main.c326ae90.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.bc5ee2f3.js",
+    "static/media/search-svgrepo-com.svg": "/goit-react-hw-04-images/static/media/search-svgrepo-com.75c494c1caed792ce01c.svg",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.c326ae90.css.map": "/goit-react-hw-04-images/static/css/main.c326ae90.css.map",
+    "main.bc5ee2f3.js.map": "/goit-react-hw-04-images/static/js/main.bc5ee2f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb3efa12.css",
-    "static/js/main.a6abcb7b.js"
+    "static/css/main.c326ae90.css",
+    "static/js/main.bc5ee2f3.js"
   ]
 }
